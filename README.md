@@ -44,7 +44,7 @@ fi
 ```
 3) Протестируем работу скрипта. Для этого создадим .txt файл без подписи и с ней
    ![image](https://github.com/user-attachments/assets/c7b1f17e-6f7f-4b0c-867f-142b35e1f2a3)
-   ![image](https://github.com/user-attachments/assets/8eb3294a-d21a-4d01-8e01-e9498aa928e2)
+   ![image](https://github.com/user-attachments/assets/050b50ea-34ad-4c6f-a985-4878713d4dbb)
    ![image](https://github.com/user-attachments/assets/4947fa83-0df9-48cf-988e-323fa1e32df7)
 
 ## Задание 2 - Использование Git Flow в проекте
